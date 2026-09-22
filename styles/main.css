@@ -1,0 +1,5 @@
+/* Intentionally no opacity, grayscale or disabled styling.
+   Inspiration must look exactly like the original D&D5e control. */
+.lipatos-inspiration-locked {
+  cursor: default;
+}
